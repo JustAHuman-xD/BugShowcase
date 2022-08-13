@@ -1,0 +1,7 @@
+name: BugShowcase
+author: JustAHuman-xD
+description: Allay bug in Spigot
+main: me.justahuman.bugshowcase.BugShowcase
+
+version: ${project.version}
+api-version: 1.19
